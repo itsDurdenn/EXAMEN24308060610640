@@ -37,7 +37,3 @@ La aplicación está pensada como un gestor de tareas ligero y básico, con una 
 1. Instala las dependencias de Flask.
 2. Ejecuta `python app.py`.
 3. Abre `http://127.0.0.1:5000/` en el navegador.
-
-## Nota
-
-El proyecto es un prototipo educativo y usa sesiones en memoria para guardar los datos de usuario. Para una aplicación real sería necesario agregar una base de datos y seguridad adicional.
