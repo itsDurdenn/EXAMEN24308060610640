@@ -5,12 +5,14 @@ No. Control: 24308060610640
 Grupo: 4-D
 Especialidad: Programación
 Fecha: 22 de abril de 2026
+![Mi foto](static/f1.png)
 
 ## Descripción del proyecto
 
 Este proyecto es una pequeña aplicación web desarrollada con Flask que permite a un usuario registrarse, iniciar sesión y ver su perfil. Además, la interfaz incluye una tabla de tareas en la plantilla principal para mostrar un ejemplo de gestión de actividades.
 
 La aplicación está pensada como un gestor de tareas ligero y básico, con una experiencia visual sencilla pero funcional usando Bootstrap para el estilo.
+
 
 ## Funcionalidades
 
@@ -37,3 +39,7 @@ La aplicación está pensada como un gestor de tareas ligero y básico, con una 
 1. Instala las dependencias de Flask.
 2. Ejecuta `python app.py`.
 3. Abre `http://127.0.0.1:5000/` en el navegador.
+
+## Tutorial
+![Mi foto](static/Registro.png)
+![Registro](static/Registro.png)
